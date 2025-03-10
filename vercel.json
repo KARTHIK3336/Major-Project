@@ -8,12 +8,5 @@
         "distDir": "client/dist"
       }
     }
-  ],
-  "routes": [
-    {
-      "src": "/(.*)",
-      "dest": "/client/$1"
-    }
   ]
 }
-
